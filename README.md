@@ -46,11 +46,4 @@ Click the badge above to test the utility in your browser via Streamlit.
 
 ## Note
 
-- Each stage is implemented and committed **separately** with its own test cases.
 - Final submission includes test coverage for all features and a fully working deployment.
-
----
-
-## Deadline Reminder
-
-📢 Please make sure to submit your GitHub repository link within **24 hours** of receiving the assignment.
